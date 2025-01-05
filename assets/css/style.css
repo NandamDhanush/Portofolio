@@ -362,7 +362,7 @@ main {
   font-size: 13px;
   color: var(--orange-yellow-crayola);
   background: var(--border-gradient-onyx);
-  padding: 20px;
+  padding: 10px;
   box-shadow: var(--shadow-2);
   transition: var(--transition-1);
   z-index: 1;
@@ -477,7 +477,7 @@ main {
 
 .navbar-link {
   color: var(--light-gray);
-  font-size: var(--fs-10);
+  font-size: var(--fs-15);
   padding: 20px 7px;
   transition: color var(--transition-1);
 }
